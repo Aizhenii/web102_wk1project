@@ -2,7 +2,9 @@
 
 Submitted by: **Sarah To**
 
-This web app: **insert description**
+This web app: **You can see current 
+      events near you based on your location and interests such as garage sales,
+      painting/sketching sessions, group yoga, etc.**
 
 Time spent: **5** hours spent in total
 
