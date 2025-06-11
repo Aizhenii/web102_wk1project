@@ -17,7 +17,7 @@ const Grid = () => {
                 img='/assets/cleanup.png'/>
             <Event title='Summer Movie Night' 
                 des='Come watch a movie (Spirited Away) with us on the park lawn!'
-                img='/assets/mo.png'/>
+                img='/assets/movie.png'/>
             <Event title='Potluck: Best Cake Contest' 
                 des='Come eat cake with us and see who has the best cake in town! Everyone including home cooks and professionals are welcomed.'
                 img='/assets/cake.png'/>
