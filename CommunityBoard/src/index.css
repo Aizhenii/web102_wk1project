@@ -18,8 +18,18 @@
   }
 
   button {
-    padding: 5px;
+    padding: 15px 15px;
     margin-bottom: 10px;
+    background: rgb(188, 229, 147);
+    border-radius: 20px;
+    border: 0px
+  }
+
+  button:hover {
+    background: rgb(85, 109, 61);
+    color: white;
+    opacity: 0.6;
+    transition: 0.3s;
   }
 }
 

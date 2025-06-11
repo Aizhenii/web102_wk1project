@@ -6,7 +6,7 @@ const Event = (props) => {
             <img src={props.img}></img>
             <h3>{props.title}</h3>
             <h4>{props.des}</h4>
-            <button>Sign up</button>
+            <button>Sign Up</button>
         </div>
     )
 }
